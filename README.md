@@ -1,1 +1,3 @@
 # nosense
+just a noob
+studying c programing...
